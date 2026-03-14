@@ -1,5 +1,7 @@
 This is a planned and built with Claude [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
+See the deployed app in the following link [`LuxeTime`](https://luxetime-with-claude-qrfyou0qi-flowfast47s-projects.vercel.app/) 
+
 ![Descriptive alt text for the image](public/images/luxetime.png)
 
 
